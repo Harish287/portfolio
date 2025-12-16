@@ -10,7 +10,6 @@ function Projects() {
             {projectData.data.map((item, index) =>
                 <Project key={index} headline={item.title} image={item.image} text={item.text} tags={item.tags} link={item.link} />
             )}
-            <Button className="mt-5 rounded-lg" >More Info</Button>
 
         </div>
 
