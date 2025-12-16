@@ -1,0 +1,12 @@
+{
+    "data": [
+    
+        {
+            "title": "Junior Web Developer",
+            "company": "Kairaa tech serv pvt",
+            "tasks": "Designed and implemented responsive user interfaces for various Apple products, ensuring seamless user experiences across devices.",
+            "tags": ["React", "Typescript", "Redux", "Next.js"],
+            "year": "2023"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "title": "Beauty Parlour Website",
+            "image": "/images/PortfolioWebsite.webp",
+            "link": "https://unikaabeauty.com/",
+            "tags": ["React.js", "Javascript", "Redux", "MUI"],
+            "text": "A Beauty Parlour website with responsive design that highlights professional work and services"
+        },
+        {
+            "title": "Staking App",
+            "image": "/images/TradingApp.webp",
+            "link": "https://www.kaitcoin.org/",
+            "tags": ["Next.js", "Typescript", "Tailwind CSS", "Redux"],
+            "text": "Its A Crypto Based Community application with responsive design that highlights professional work"
+        },
+        {
+            "title": "Community Website",
+            "image": "/images/PhotoWebsite.webp",
+            "link": "https://kaitworld.org/",
+            "tags": ["React.js", "Typescript", "Tailwind CSS", "Redux"],
+            "text": "A website to curate and share photos that capture life's most memorable moments.,and About the Kairaa Community"
+        }
+    ]
+}
